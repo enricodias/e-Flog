@@ -1,0 +1,75 @@
+.destaque_titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #6D940A;
+	text-decoration: none;
+	margin-top:5px;
+	margin-left:5px;
+}
+.destaque_texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+	margin-top:3px;
+	margin-left:5px;
+	margin-right:5px;
+}
+.destaque_saibamais {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	font-weight: bold;
+	color: #6D940A;
+	text-decoration: none;
+	margin-left:5px;
+	margin-right:5px;
+}
+.mural_titulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #6D940A;
+	text-decoration: none;
+	margin-top:10px;
+}
+.mural_texto {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+	margin-top:5px;
+}
+
+.mural_saibamais {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #6D940A;
+	text-decoration: none;
+}.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-align: right;
+	margin-right:5px;
+}
+.texto {
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	text-align: justify;
+	margin-left: 35px;
+	margin-right: 22px;
+	margin-top: 10px;
+	font-style: normal;
+	line-height: 23px;
+	font-variant: normal;
+}
